@@ -1,0 +1,9 @@
+.light {
+    color: aqua;
+    background-color: rgb(128, 128, 128);
+}
+
+.dark {
+    color: pink;
+    background-color: black;
+}
